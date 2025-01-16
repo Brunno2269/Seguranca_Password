@@ -1,11 +1,9 @@
-
-![Uploading imagem_da_tela (Cópia).png…]()
+![Demonstração do Projeto](img/imagem_da_tela.png)
 
 # Segurança_Password
 
 Um verificador de força de senha simples e interativo, desenvolvido em HTML, CSS e JavaScript. O projeto avalia a força de uma senha com base em critérios como comprimento, uso de letras maiúsculas, minúsculas, números e caracteres especiais.
 
-![Demonstração do Projeto](img/imagem_da_tela.png) <!-- Adicione uma imagem de demonstração aqui -->
 
 ## Funcionalidades
 
