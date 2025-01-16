@@ -12,7 +12,7 @@ body {
   justify-content: center;
   min-height: 100vh;
   background: #47289d;
-  background-image: url('/home/desenvolvimento-25/Downloads/Seguranca_passoword/img/plano_de_fundo.jpg');
+  background-image: url('img/plano_de_fundo.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
