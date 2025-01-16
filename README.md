@@ -1,4 +1,4 @@
-![Demonstração do Projeto](img/imagem_da_tela.png)
+![Demonstração do Projeto](imagem_da_tela.png)
 
 # Segurança_Password
 
